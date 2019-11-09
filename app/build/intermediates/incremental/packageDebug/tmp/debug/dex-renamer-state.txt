@@ -1,4 +1,4 @@
-#Fri Nov 01 10:58:42 CST 2019
-base.0=/home/chevylin/Workspace/RCKeyCodes/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Sat Nov 09 16:28:56 CST 2019
+base.0=/work/Workspace/Android/ottapp/RCKeyCodes/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
